@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sous-les-etoiles/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Sous Les Étoiles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sous-les-etoiles/) |
+| **Get License** | [Official Music Licensing for Sous Les Étoiles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sous-les-etoiles/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les étoiles de minuit, j'ai ton parfum sur ma peau
+> Paris s'éveille dans l'ombre, baby let it flow
+> Tes yeux dans le rétro, c'est un flash en slowmotion
+> Je suis ton bad boy chic, perdu dans l'émotion
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
