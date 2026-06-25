@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sous-les-etoiles/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sous Les Étoiles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sous-les-etoiles/) |
+| **Get License** | [Get a Licensing Quote for Sous Les Étoiles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sous-les-etoiles/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `161cf53244c3e3569617d83fcc6180a6dba91789404df9c07e2a2a1f2d49a219` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

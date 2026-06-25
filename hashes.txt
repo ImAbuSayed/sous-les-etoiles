@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sous Les Étoiles
+
+This log tracks the cryptographic history and versioning for the song **Sous Les Étoiles** (sous-les-etoiles).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T13:07:59.599523 | `v1` | `161cf53244c3e3569617d83fcc6180a6dba91789404df9c07e2a2a1f2d49a219` | `d50e43946d600a8f3097dbac6949930b640e6bd3ac7ba72d97474e277fbbffb0` | `2026-06-25_sous-les-etoiles-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
